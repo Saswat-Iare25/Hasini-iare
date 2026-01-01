@@ -1,6 +1,6 @@
 <div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=212121&height=150&section=header&text=HASINI YERRAMSETTI&fontSize=50&fontColor=FDF5E6&fontAlign=50&fontAlignY=55&desc=Flutter%20Developer%20%7C%20AI%2FML%20Engineer&descAlign=50&descAlignY=78&descColor=FDF5E6" alt="Hasini Header" width="100%" />
+  
+![Hasini Header](https://capsule-render.vercel.app/api?type=rect&color=212121&height=150&section=header&text=HASINI%20YERRAMSETTI&fontSize=50&fontColor=FDF5E6&fontAlign=50&fontAlignY=55&desc=Flutter%20Developer%20%7C%20AI%2FML%20Engineer&descAlign=50&descAlignY=78&descColor=FDF5E6)
 
   <br/>
 
