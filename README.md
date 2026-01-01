@@ -1,21 +1,90 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Developing mobile apps with Flutter and integrating AI/ML solutions.<br><br>👯 I’m looking to collaborate on<br>Innovative mobile app projects and AI-driven solutions.<br><br>🤝 I’m looking for help with<br>Improving my knowledge of deep learning and backend systems.<br><br>🌱 I’m currently learning<br>Advanced AI/ML algorithms and Flutter optimization techniques.
+<div align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=212121&height=150&section=header&text=HASINI YERRAMSETTI&fontSize=50&fontColor=FDF5E6&fontAlign=50&fontAlignY=55&desc=Flutter%20Developer%20%7C%20AI%2FML%20Engineer&descAlign=50&descAlignY=78&descColor=FDF5E6" alt="Hasini Header" width="100%" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasini-y-25b6ba389/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yhasini009@gmail.com) 
+  <br/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+  <h3 style="color: #FDF5E6;">Developing scalable mobile apps & integrating AI solutions.</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/hasini-y-25b6ba389/">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-333333?style=for-the-badge&logo=linkedin&logoColor=FDF5E6" alt="LinkedIn">
+    </a>
+    <a href="mailto:yhasini009@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=FDF5E6" alt="Email">
+    </a>
+  </p>
+
+</div>
+
+<hr style="height: 2px; border-width: 0; background-color: #FDF5E6; margin-top: 30px; margin-bottom: 30px;">
+
+<div align="center">
+  <h3 align="center" style="color: #FDF5E6;">💻 Tech Arsenal</h3>
+  
+  <table>
+    <tr style="background-color: #212121;">
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=flutter&theme=dark" width="45" /><br/><span style="color: #FDF5E6;">Flutter</span>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=dart&theme=dark" width="45" /><br/><span style="color: #FDF5E6;">Dart</span>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="45" /><br/><span style="color: #FDF5E6;">Python</span>
+      </td>
+      <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="45" /><br/><span style="color: #FDF5E6;">AI/ML</span>
+      </td>
+       <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="45" /><br/><span style="color: #FDF5E6;">Firebase</span>
+      </td>
+    </tr>
+  </table>
+  
+  <br/>
+  
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,flask,opencv,gcp,git,github,vscode,figma&theme=dark&perline=12" />
+</div>
+
+<br/>
+
+<hr style="height: 2px; border-width: 0; background-color: #FDF5E6; margin-top: 30px; margin-bottom: 30px;">
+
+<div align="center">
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hasini-iare&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hasini-iare&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasini-iare&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Hasini-iare&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://nirzak-streak-stats.vercel.app/?user=Hasini-iare&theme=dark&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasini-iare&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<hr style="height: 2px; border-width: 0; background-color: #FDF5E6; margin-top: 30px; margin-bottom: 30px;">
+
+<div align="center">
+  <h3 align="center" style="color: #FDF5E6;">📉 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasini-iare&bg_color=212121&color=FDF5E6&line=888888&point=FDF5E6&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+</div>
+
+<hr style="height: 2px; border-width: 0; background-color: #FDF5E6; margin-top: 30px; margin-bottom: 30px;">
+
+<div align="center">
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Hasini-iare&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+<hr style="height: 2px; border-width: 0; background-color: #FDF5E6; margin-top: 30px; margin-bottom: 30px;">
+
+<div align="center">
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
+
+
+
